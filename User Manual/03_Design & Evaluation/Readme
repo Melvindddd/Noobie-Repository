@@ -1,0 +1,65 @@
+Design & Evaluation
+The prototype was evaluated using both heuristic analysis and user feedback, focusing on how well the interface supports pacing discipline without distraction.
+
+Heuristic Evaluation
+A usability review was conducted based on Nielsen’s 10 Usability Heuristics. Key highlights include:
+
+Visibility of System Status: Runners receive immediate feedback through pace alerts, real-time stats, and map visuals.
+
+Match Between System & Real World: Terminology like “Set Pace” and “Start Run” mirrors how runners already talk and train.
+
+User Control & Freedom: Users can easily cancel or end a session with no confusing steps.
+
+Consistency & Standards: Button placement, navigation, and visual structure are consistent across all screens.
+
+Error Prevention: Pace limits are set through controlled input — no risky manual entry needed.
+
+Recognition Over Recall: Presets, stats, and session details are always visible — no need to memorize steps.
+
+Minimalist Design: The interface contains only what’s essential to the running experience.
+
+Help Users Recognize & Recover from Errors: Simple alerts like “Too Fast” or “Too Slow” help runners adjust immediately.
+
+Usability Testing
+To test the prototype, users were asked to perform 5 main tasks:
+
+Set a target pace
+
+Start a run session
+
+React to pace alerts
+
+View the run summary
+
+Navigate to Pace Stats and Profile
+
+Usability Testing
+Participants completed key tasks using the prototype, with their times measured to evaluate efficiency and ease of use. All tasks were completed within acceptable limits, supporting the app’s goal of being fast and frictionless.
+
+Task Average Time Interpretation Classification Set Target Pace 0.20 seconds Highly Acceptable Successful Start Run and Respond to Alert 1.30 seconds Highly Acceptable Successful View Run Summary 0.45 seconds Highly Acceptable Successful Access Stats and Achievements 1.10 seconds Highly Acceptable Successful
+
+User Survey & Insights
+After testing, participants answered a short survey based on a 5-point Likert scale, rating the app's clarity, ease of use, and alert system. The survey also included open-ended feedback.
+
+Preliminary results indicated:
+
+Clarity of interface: 4.8 / 5
+
+Ease of task completion: 5.0 / 5
+
+Alert usefulness: 5.0 / 5
+
+Overall experience: 5.0 / 5
+
+"I didn’t need instructions — it was just tap, run, and go." "The pace alerts helped me stay focused without breaking rhythm."
+
+Suggested Improvements
+Based on the evaluation, a few areas were identified for future iterations:
+
+Smartwatch feedback: Originally planned but excluded for simplicity. Future versions may include native vibration support for wearables.
+
+Onboarding tips: Even though the app is intuitive, a brief guide could help first-time users understand saved paces and alert types.
+
+Expanded analytics: More in-depth pace trends and goal-setting features could support long-term training plans.
+
+UI and Design Consistency
