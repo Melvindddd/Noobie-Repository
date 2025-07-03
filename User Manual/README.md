@@ -1,4 +1,4 @@
-This collection contains all the documents related to the creation of PulseApp — from design decisions and usage instructions to evaluation results. Everything here is meant to explain the full process behind the prototype.
+This collection contains all the documents related to the creation of PulseApp, from design decisions and usage instructions to evaluation results. Everything here is meant to explain the full process behind the prototype.
 
 Contents:
 
