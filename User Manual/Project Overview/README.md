@@ -25,5 +25,3 @@ Multi‑platform design: built for phone today, ready for third‑party smartwat
 
 # What Makes It Different
 While many running apps shout audio cues or require constant wrist‑checks, PacePulse uses vibration alone—a quieter, more intuitive signal that keeps eyes forward and ears open to the environment.
-
-
