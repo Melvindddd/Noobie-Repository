@@ -1,7 +1,7 @@
 
 ![Logo](logo3.png)
 
-# Noobie-Repository
+# PacePulse 
 
 school-portfolio
 
