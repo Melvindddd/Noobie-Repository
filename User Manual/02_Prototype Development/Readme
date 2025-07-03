@@ -29,3 +29,13 @@ Prototype Link
 https://www.figma.com/proto/5DpucKxJa03hOBK5mSZeim/Untitled?node-id=57-151&starting-point-node-id=57%3A151
 
 Prototype Main Flow
+![Prototype Flow](relative/path/to/your/image.png)
+
+Set a Pace → Start Run → Receive Pace Alerts → Finish Run → View Summary & Stats
+
+Navigation supports reviewing achievements and pace trends
+
+Interface highlights only what’s needed for each step which keeps runners focused
+
+Design Rationale
+The prototype intentionally excluded features like smartwatch-specific screens and advanced settings to keep testing simple and relevant. Vibration-based feedback, while part of the final concept, was not simulated in this prototype due to technical constraints in Figma. However, the design still supports future wearable integration — similar to how Strava or Garmin connect with third-party devices.
