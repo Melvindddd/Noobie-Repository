@@ -1,3 +1,6 @@
+
+![Logo](logo3.png)
+
 # Noobie-Repository
 
 school-portfolio
