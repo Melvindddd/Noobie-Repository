@@ -7,7 +7,3 @@ This collection contains all the documents related to the creation of PulseApp, 
 *Prototype Development* – How it was designed using Figma and user-centered design methods.
 
 *Design & Evaluation* – Heuristic evaluation, survey insights, and suggested improvements.
-
-*Visual Screens & Walkthroughs* – Image references from the actual prototype.
-
-
