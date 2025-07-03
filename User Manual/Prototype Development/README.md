@@ -32,7 +32,8 @@ https://www.figma.com/proto/5DpucKxJa03hOBK5mSZeim/Untitled?node-id=57-151&start
 
 # Prototype Main Flow
 
-![Logo](Images/Flow.png)
+![Flow Diagram](../../Images/Flow.png)
+
 
 Set a Pace → Start Run → Receive Pace Alerts → Finish Run → View Summary & Stats
 
